@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class IT24101003Lab6Q3{
+public class IT24101563Lab6Q3{
 	
 	public static void main(String []args){
 		
@@ -26,8 +26,6 @@ public class IT24101003Lab6Q3{
 		
 		double rms = Math.sqrt(total/ count);
 		System.out.println("The Root Mean Sqare (RMS) is: "+ rms );
-		
-		scanner.close();
 		
 		
 	}
