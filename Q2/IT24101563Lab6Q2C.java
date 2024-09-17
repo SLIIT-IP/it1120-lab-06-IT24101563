@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class IT24101003Lab6Q2C{
+public class IT24101563Lab6Q2C{
 	
 	public static void main(String []args){
 		
@@ -25,7 +25,6 @@ public class IT24101003Lab6Q2C{
 		System.out.println("Sum of the numbers are: "+total);
 		System.out.println("Average of the numbers are: "+avg);
 		
-		scanner.close();
 		
 		
 	}
