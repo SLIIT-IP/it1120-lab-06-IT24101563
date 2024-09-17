@@ -1,4 +1,4 @@
-public class IT24101003Lab6Q2A{
+public class IT24101563Lab6Q2A{
 	
 	public static void main(String []args){
 		int i = 1;
